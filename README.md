@@ -3,7 +3,7 @@
 ## Instrucciones de Descarga y Configuración
 
 1. **Descargar el archivo ZIP:**
-   - [Descargar proyecto.zip](project_daskdockerlinux.zip)
+   - [Descargar proyecto.zip](project_regresiondocker.zip)
 
 2. **Descomprimir el archivo:**
    ```bash
