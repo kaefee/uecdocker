@@ -2,6 +2,6 @@
 
 ### Use los archivos de este repositorio teniendo en cuenta las instrucciones del profesor
 
-![](ciguena.png)
+![](ciguenadata.png)
 
 
